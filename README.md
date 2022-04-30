@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="./JudejvlrTyping.png">
   <div>
-    <h3> Front End Developer | 📍 Venezuela :venezuela: </h3>
+    <h3> Front End Developer | 📍 Venezuela 🇻🇪 </h3>
   </div>
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -40,7 +40,7 @@
 </div>
 
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 - 💻 I'm an intermediate JavaScript/TypeScript developer.
 - 🌱 I’m triying to improve my english.
 - 📫 You can find me HERE → [LinkedIn](https://www.linkedin.com/in/judejvlr) | [GitLab](https://gitlab.com/Judejvlr) | [Twitter](https://twitter.com/Judejvlr) |
