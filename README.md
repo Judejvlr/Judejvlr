@@ -47,6 +47,6 @@
 [Instagram](https://www.instagram.com/judejvlr/)
 
 ## ⚡ Fun facts 
-- 🎵 If you greet me with "Hey Jude", I'll reply with "Don't make it bad ♪♫" like The Beatles song.
+- 🎵 If you greet me by saying "Hey Jude", I'll go to respond "Don't make it bad ♪♫" like The Beatles song.
 - 😜 I have my owns stickers packs for [Telegram](https://t.me/addstickers/DontMakeItBad) and [Whatsapp](http://sticker.ly/s/0R4JD5) (The stickers were designed by [DarianKeff](https://twitter.com/darian_keff))
 
