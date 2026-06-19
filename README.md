@@ -42,7 +42,6 @@
 
 ## 🙋 About Me
 - 💻 I'm an intermediate JavaScript/TypeScript developer.
-- 🌱 I’m triying to improve my english.
 - 📫 You can find me HERE → [LinkedIn](https://www.linkedin.com/in/judejvlr) | [GitLab](https://gitlab.com/Judejvlr) | [Twitter](https://twitter.com/Judejvlr) |
 [Instagram](https://www.instagram.com/judejvlr/)
 
