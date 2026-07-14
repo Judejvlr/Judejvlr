@@ -41,9 +41,7 @@
 
 
 ## 🙋 About Me
-- 💻 I'm an intermediate JavaScript/TypeScript developer.
-- 📫 You can find me HERE → [LinkedIn](https://www.linkedin.com/in/judejvlr) | [GitLab](https://gitlab.com/Judejvlr) | [Twitter](https://twitter.com/Judejvlr) |
-[Instagram](https://www.instagram.com/judejvlr/)
+- 💻 JavaScript/TypeScript developer.
 
 ## ⚡ Fun facts 
 - 🎵 If you greet me by saying "Hey Jude", I'll go to respond "Don't make it bad ♪♫" like The Beatles song.
